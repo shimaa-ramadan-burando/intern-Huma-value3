@@ -1,0 +1,11 @@
+C:\Users\bfett\source\repos\Employee\EmployeeManagement.Domain\bin\Debug\net9.0\EmployeeManagement.Domain.deps.json
+C:\Users\bfett\source\repos\Employee\EmployeeManagement.Domain\bin\Debug\net9.0\EmployeeManagement.Domain.dll
+C:\Users\bfett\source\repos\Employee\EmployeeManagement.Domain\bin\Debug\net9.0\EmployeeManagement.Domain.pdb
+C:\Users\bfett\source\repos\Employee\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bfett\source\repos\Employee\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\bfett\source\repos\Employee\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.AssemblyInfo.cs
+C:\Users\bfett\source\repos\Employee\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bfett\source\repos\Employee\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.dll
+C:\Users\bfett\source\repos\Employee\EmployeeManagement.Domain\obj\Debug\net9.0\refint\EmployeeManagement.Domain.dll
+C:\Users\bfett\source\repos\Employee\EmployeeManagement.Domain\obj\Debug\net9.0\EmployeeManagement.Domain.pdb
+C:\Users\bfett\source\repos\Employee\EmployeeManagement.Domain\obj\Debug\net9.0\ref\EmployeeManagement.Domain.dll

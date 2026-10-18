@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bfett\\source\\repos\\Employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06C03D4F-34F7-4B71-A057-B59AF85B7124}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.infrastructure\\migrations\\20261018133247_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C03D4F-34F7-4B71-A057-B59AF85B7124}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\migrations\\20261018133247_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C03D4F-34F7-4B71-A057-B59AF85B7124}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C03D4F-34F7-4B71-A057-B59AF85B7124}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3103ECB9-91C6-47BD-966F-26A3B2C2054B}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3103ECB9-91C6-47BD-966F-26A3B2C2054B}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C03D4F-34F7-4B71-A057-B59AF85B7124}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C03D4F-34F7-4B71-A057-B59AF85B7124}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3103ECB9-91C6-47BD-966F-26A3B2C2054B}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3103ECB9-91C6-47BD-966F-26A3B2C2054B}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3103ECB9-91C6-47BD-966F-26A3B2C2054B}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.api\\employeemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3103ECB9-91C6-47BD-966F-26A3B2C2054B}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\employeemanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3103ECB9-91C6-47BD-966F-26A3B2C2054B}|EmployeeManagement.API\\EmployeeManagement.API.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.api\\controller\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3103ECB9-91C6-47BD-966F-26A3B2C2054B}|EmployeeManagement.API\\EmployeeManagement.API.csproj|solutionrelative:employeemanagement.api\\controller\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C03D4F-34F7-4B71-A057-B59AF85B7124}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.infrastructure\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06C03D4F-34F7-4B71-A057-B59AF85B7124}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20492AAC-F5C4-4369-A04B-75AC09156AED}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.domain\\entites\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20492AAC-F5C4-4369-A04B-75AC09156AED}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\entites\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22E5622-C5A6-4E03-B2AD-E52344A19931}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22E5622-C5A6-4E03-B2AD-E52344A19931}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22E5622-C5A6-4E03-B2AD-E52344A19931}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.application\\employeemanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E22E5622-C5A6-4E03-B2AD-E52344A19931}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\employeemanagement.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06C03D4F-34F7-4B71-A057-B59AF85B7124}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.infrastructure\\employeemanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{06C03D4F-34F7-4B71-A057-B59AF85B7124}|EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj|solutionrelative:employeemanagement.infrastructure\\employeemanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20492AAC-F5C4-4369-A04B-75AC09156AED}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.domain\\employeemanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{20492AAC-F5C4-4369-A04B-75AC09156AED}|EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj|solutionrelative:employeemanagement.domain\\employeemanagement.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22E5622-C5A6-4E03-B2AD-E52344A19931}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.application\\dtos\\createupdateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22E5622-C5A6-4E03-B2AD-E52344A19931}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dtos\\createupdateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E22E5622-C5A6-4E03-B2AD-E52344A19931}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|c:\\users\\bfett\\source\\repos\\employee\\employeemanagement.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E22E5622-C5A6-4E03-B2AD-E52344A19931}|EmployeeManagement.Application\\EmployeeManagement.Application.csproj|solutionrelative:employeemanagement.application\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20261018133247_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Infrastructure\\Migrations\\20261018133247_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Migrations\\20261018133247_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Infrastructure\\Migrations\\20261018133247_InitialCreate.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Migrations\\20261018133247_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T13:59:46.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs*",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Migrations\\AppDbContextModelSnapshot.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T13:57:15.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.API\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.API\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagement.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-18T12:36:06.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Program.cs",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.API\\Program.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Program.cs",
+              "ViewState": "AgIAABAAAABgcZ+BkDUqwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T12:32:16.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.API\\Controller\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\Controller\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.API\\Controller\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagement.API\\Controller\\EmployeesController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAArwAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T12:30:32.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeManagement.API",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.API\\EmployeeManagement.API.csproj",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.API\\EmployeeManagement.API.csproj",
+              "RelativeToolTip": "EmployeeManagement.API\\EmployeeManagement.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-18T12:23:24.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Application\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T11:46:18.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Infrastructure\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Infrastructure\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Services\\EmployeeService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAIA+wFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T11:37:33.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-18T10:59:07.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeManagement.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj*",
+              "RelativeToolTip": "EmployeeManagement.Infrastructure\\EmployeeManagement.Infrastructure.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-18T10:58:10.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeManagement.Application",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+              "RelativeToolTip": "EmployeeManagement.Application\\EmployeeManagement.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T20:37:31.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Domain\\Entites\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\Entites\\Employee.cs",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Domain\\Entites\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement.Domain\\Entites\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T20:10:58.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeManagement.Domain",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
+              "RelativeToolTip": "EmployeeManagement.Domain\\EmployeeManagement.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-17T19:22:21.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateUpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Application\\DTOs\\CreateUpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTOs\\CreateUpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Application\\DTOs\\CreateUpdateEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTOs\\CreateUpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T20:40:15.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Application\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement.Application\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\bfett\\source\\repos\\Employee\\EmployeeManagement.Application\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeManagement.Application\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-17T20:38:53.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
